@@ -6,4 +6,4 @@ I'm well aware, that the structure of the React-Code is far from perfect, also t
 
 The Reason this Repository is not private is to give some of my friends and colleagues a chance to use the Timer for their Training as well. 
 
-You find another readme in the folder "murphtimer"
+You find another readme in the folder "murph-timer"
