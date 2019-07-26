@@ -27,7 +27,7 @@ The Timer then shows the number of sets, and the Time for each Set.
 ### Play
 Starts the Timer when clicked. The Timer starts with a 5 second countdown to get ready and then starts with the first set of Pullups. It also shows you the number of rounds you have to repeat the Sets.
 
-## Activate/Deactivate NoSleep
+### Activate/Deactivate NoSleep
 Prevents Device from going to Standby while activated (e.g. Phone-Display wont shut down)
 
 ## Demo-Version:
