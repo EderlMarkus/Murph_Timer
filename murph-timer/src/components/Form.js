@@ -13,7 +13,7 @@ export default class Body extends Component {
     return (
       <React.Fragment>
           <br></br>
-          <MinutesToFinish name="Minutes to Finish" reps={60}></MinutesToFinish>
+          <MinutesToFinish name="Minutes to Finish" reps={120}></MinutesToFinish>
       </React.Fragment>
     )
   }
